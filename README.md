@@ -2,6 +2,7 @@
 
 My name's Taymaz Khormali. I study CS at SUT, and I'm a junior back-end developer.
 
+📚 Learning **Typescript**<br>
 📚 Planning on learning **Go**<br>
 💻 Working on **picen**
 
