@@ -1,10 +1,10 @@
 ### Hello there! 😁
 
-My name's Taymaz Khormali. I study CS at SUT, and I'm a junior back-end developer.
+My name's Taymaz Khormali. I study CS at SUT, and I'm a junior developer.
 
-📚 Learning **Spring**<br>
-📚 Planning on learning **Go**<br>
-💻 Working on a private project<br>
+I'm currently:<br>
+📚 Learning about **Serverless Technology** <br>
+💻 Working on [microservices-lambda-port](https://github.com/TaymazKH/microservices-lambda-port) <br>
 
 ### My skills
 
@@ -12,7 +12,6 @@ My name's Taymaz Khormali. I study CS at SUT, and I'm a junior back-end develope
 <a href="https://www.djangoproject.com/"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a>
 <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
-<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
 <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a>
 
 ### GitHub status
