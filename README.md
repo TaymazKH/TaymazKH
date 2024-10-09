@@ -8,10 +8,17 @@ I'm currently:<br>
 
 ### My skills
 
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
-<a href="https://www.djangoproject.com/"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a>
-<a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
+<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://go.dev"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://www.mathworks.com/products/matlab.html"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="python" width="30" height="30"/> </a>
+
+<a href="https://www.djangoproject.com/"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a>
+<a href="https://grpc.io"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="python" width="30" height="30"/> </a>
+
+<a href="https://www.latex-project.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://html.spec.whatwg.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a>
 
 ### GitHub status
@@ -20,4 +27,4 @@ I'm currently:<br>
 <br>
 [![Trophies](https://github-profile-trophy.vercel.app/?username=taymazkh&title=Star,Repo,Followers,Commit&column=4&margin-w=5&margin-h=5&no-frame=true&theme=nord )](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taymazkh&langs_count=10&layout=compact&hide_title=true&card_width=455&hide_border=true&theme=nord )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taymazkh&langs_count=10&exclude_repo=machine-learning-project&layout=compact&hide_title=true&card_width=455&hide_border=true&theme=nord )](https://github.com/anuraghazra/github-readme-stats)
