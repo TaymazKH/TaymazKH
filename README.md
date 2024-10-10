@@ -4,7 +4,7 @@ My name's Taymaz Khormali. I study CS at SUT, and I'm a junior developer.
 
 I'm currently:<br>
 📚 Learning about **Serverless Technology** <br>
-💻 Working on [microservices-lambda-port](https://github.com/TaymazKH/microservices-lambda-port) <br>
+💻 Working on [microservices-lambda-and-k8s-port](https://github.com/TaymazKH/microservices-lambda-and-k8s-port) <br>
 
 ### My skills
 
@@ -12,10 +12,9 @@ I'm currently:<br>
 <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://go.dev"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="python" width="30" height="30"/> </a>
-
 <a href="https://www.djangoproject.com/"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a>
 <a href="https://grpc.io"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="python" width="30" height="30"/> </a>
-
+<a href="https://aws.amazon.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.latex-project.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://html.spec.whatwg.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
